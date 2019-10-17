@@ -12,5 +12,5 @@ end
 
 def assign_room(attendees)
   attendees.each_with_index(1) do |attendee , index|
-    "Hello,"
+    "Hello, #{attendee} "
 end
