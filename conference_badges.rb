@@ -17,6 +17,8 @@ def assign_room(attendees)
   end
 end
 
-
+def printer(attendees)
+  puts assign_room
+end
 
 
