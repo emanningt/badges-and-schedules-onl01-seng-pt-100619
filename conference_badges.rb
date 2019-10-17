@@ -1,4 +1,4 @@
 
 def badgmaker(name)
-  puts "Hello, my name is #{name}"
+  puts "Hello, my name is #{name}."
 end
