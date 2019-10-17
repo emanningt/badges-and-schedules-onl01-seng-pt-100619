@@ -16,4 +16,4 @@ def assign_room(attendees)
   end
 end
 
-def p
+
